@@ -1,0 +1,1 @@
+include ':app', ':youku', ':viewpeage', ':xialakuang', ':onoroff', ':autoattribute', ':myview', ':myviewpeage'

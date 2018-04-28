@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoattribute/autoattribute.iml" filepath="$PROJECT_DIR$/autoattribute/autoattribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\p2pRecord\CustomView\myview\myviewpage.iml" filepath="C:\Users\Administrator\Desktop\p2pRecord\CustomView\myview\myviewpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewpeage/myviewpeage.iml" filepath="$PROJECT_DIR$/myviewpeage/myviewpeage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onoroff/onoroff.iml" filepath="$PROJECT_DIR$/onoroff/onoroff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpeage/viewpeage.iml" filepath="$PROJECT_DIR$/viewpeage/viewpeage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xialakuang/xialakuang.iml" filepath="$PROJECT_DIR$/xialakuang/xialakuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youku/youku.iml" filepath="$PROJECT_DIR$/youku/youku.iml" />
+    </modules>
+  </component>
+</project>
