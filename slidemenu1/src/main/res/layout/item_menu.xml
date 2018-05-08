@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="60dp"
+    android:paddingRight="15dp"
+    android:paddingLeft="15dp"
+    android:gravity="right|center"
+    android:background="#90000000"
+    android:textColor="#ff0000"
+    android:text="Delete">
+
+</TextView>
